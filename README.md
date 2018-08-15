@@ -2,7 +2,7 @@
 Using Python to Reduce JPEG and PNG Image File Sizes or to Resize Image Without Loss of Quality
 
 ## Running Locally
-Make sure you have Python3(https://www.python.org/downloads/) and Pillow(PIL--Python Imaging Library) installed .
+Make sure you have [Python3](https://www.python.org/downloads/) and Pillow(PIL--Python Imaging Library) installed .
 ```sh
 > pip install Pillow
 ```
